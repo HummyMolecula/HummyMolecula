@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HummyMolecula
-- 👀 I’m interested in programing IDEs
+- 👀 I’m interested in programing! ✨
 - 🌱 I’m currently learning javascript, Python and C/C++
 - 💞️ I’m looking to cooperate with everyone :)
 - 📫 I'm always here: dragonitdeveloper@gmail.com
